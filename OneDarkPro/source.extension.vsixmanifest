@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="OneDarkPro.53966c35-c17d-4c13-9477-5ff82927790b" Version="2.0" Language="en-US" Publisher="Ali Hosseini Khayat" />
+        <Identity Id="OneDarkPro.53966c35-c17d-4c13-9477-5ff82927790b" Version="2.1" Language="en-US" Publisher="Ali Hosseini Khayat" />
         <DisplayName>One Dark Pro - No Red</DisplayName>
         <Description xml:space="preserve">Customization of One Dark Pro without red colors.
 "One Dark Pro" theme generated using Alexander Teinum's "Dainty for Visual Studio", saved with "Visual Studio Color Theme Designer" and tweaked to closer match Binaryify's "One Dark Pro" theme for Visual Studio Code.</Description>
